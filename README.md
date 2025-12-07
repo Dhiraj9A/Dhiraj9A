@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Dhiraj Kumar  
-### Full-Stack Web Developer | PHP · Laravel · MySQL · JavaScript · jQuery · HTML · CSS · Nginx · Apache
+### Full-Stack Web Developer | .Python . Django . PHP · Laravel · MySQL · JavaScript · jQuery · HTML · CSS · Nginx · Apache
 
 I am a passionate web developer focused on building clean, user-friendly, and scalable web applications.  
 My core strength is backend development using **PHP, Laravel & MySQL**, and I enjoy creating practical, real-world applications like Student Management Systems, Admin Panels, and CRUD-based modules.
@@ -16,6 +16,8 @@ My core strength is backend development using **PHP, Laravel & MySQL**, and I en
 - AJAX  
 
 ### **Backend**
+- Python
+- Django
 - PHP (Core PHP)  
 - Laravel Framework  
 - MySQL  
@@ -32,7 +34,7 @@ My core strength is backend development using **PHP, Laravel & MySQL**, and I en
 
 ## 🔥 Featured Projects
 
-### 📘 **Student Management System (PHP, MySQL, jQuery, Nginx)**
+### 📘 **Student Management System (PHP, MySQL, jQuery, Nginx),(Python , Django, MySQL, jQuery, Nginx) **
 A complete web application with secure admin login, dashboard analytics, and student/class/section management.
 
 **Features:**  
